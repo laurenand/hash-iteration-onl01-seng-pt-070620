@@ -17,5 +17,5 @@ def age_appropriate_birthday(birthday_kids)
     puts "You are too old for this." if age > 12
     
   end
-   binding.pry
+  
 end
